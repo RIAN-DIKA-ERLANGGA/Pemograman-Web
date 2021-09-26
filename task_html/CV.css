@@ -1,0 +1,26 @@
+body {
+background-image: url("img/latar.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+background-position: center;
+}
+h1 {
+text-align :center;
+text-decoration: underline overline white;
+color:white;
+}
+
+h2 {
+color: white;
+}
+
+p{
+color:gold;
+}
+
+h4{
+color:red;
+}
+h5{
+color:red;
+}
